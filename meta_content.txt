@@ -1,0 +1,62 @@
+
+Mark Zuckerberg’s unexpected ‘free speech’ overhaul of Meta’s content moderation has sparked concerns among advertisers that it will lead to a surge of harmful content and misinformation across the social media platform. 
+
+Multiple advertising bosses told the Financial Times that Meta’s move to end its fact-checking programme and weaken hate speech policies could cost the platform, where marketing represents the majority of its $135bn in annual sales, if brands fear their adverts might run next to toxic content.
+
+“Some brands will already be assessing their plans carefully and it’s no doubt going to become a commercial conundrum for both sides,” said Fergus McCallum, boss at advertising agency TBWA\MCR.
+
+The $1.5tn company’s drastic loosening of its online content marks an escalation in Zuckerberg’s recent push to curry favour with president-elect Donald Trump and his new right-hand man Elon Musk.
+
+Over just a few days, this saw him replace Meta’s global policy chief Nick Clegg with prominent Republican ally Joel Kaplan, as well as appointing martial arts titan and Trump friend Dana White to its board. On Friday, the company announced internally that it was also terminating its diversity, equity and inclusion (DEI) efforts, while Zuckerberg appeared on Joe Rogan’s podcast to say corporations had become “culturally neutered” and needed more “masculine energy” and to “celebrate aggression a bit more”.
+
+But the move to ditch professional fact-checkers in favour of a ‘community notes’ approach pioneered by Musk’s X — whereby users themselves flag misinformation — has unsettled the advertising industry given brand safety concerns at rivals X and TikTok in recent years.
+
+Meta has long dominated marketing spend alongside Google, building a reputation as a relatively safe haven, with high return-on-investment and close relationships with the major brands. In contrast, X was hit by an exodus of marketers over moderation concerns following Musk’s purchase of the platform two years ago, which has decimated its revenues.
+
+“Meta have done a great job tidying up the worst excesses of toxic content and if their new [approach] undoes this, advertisers will spot it quickly and punish them,” said Richard Exon, founder at advertising agency Joint.
+
+On X, community notes allows users to offer to “add context” below other people’s posts, though this will only appear when a consensus of other contributors “from different points of view” agree it is helpful.
+
+Critics argue that crowdsourced fact-checking efforts are far slower to label falsehoods and conspiracies than professional, trained individuals, and can be manipulated by users.
+
+Lou Paskalis, chief executive of marketing consultancy AJL Advisory and a former media executive at Bank of America, said Meta’s community notes shift “creates headwinds for marketers who are risk averse”, adding some will “reduce their reliance” on Meta as a result.
+
+Other advertising executives described feeling “nervous” and were seeking further information from the platform on how exactly the changes would be implemented.
+
+“Brands are entering a new world where established rules of operation can no longer be relied on,” said Patrick Reid, group chief executive at Imagination, the creative advertising agency.
+
+Concerns have also been raised about Meta’s plans to change its systems to “dramatically reduce” the amount of content that its automated filters remove from its platforms.
+
+That includes lifting restrictions on topics such as immigration and gender, to focus its systems on “illegal and high-severity violations”, such as terrorism, child exploitation and fraud, as well as content related to suicide, self-harm and eating disorders. Zuckerberg himself admitted its systems will now catch “less bad stuff”.
+
+Other industry executives were more sceptical the shift would create much fallout for Meta’s ads business. “I don’t think advertisers will care so long as the platform performs — but they will if the content becomes more polarised,” said one major advertising agency boss.
+
+Alex Cheeseman, head of enterprise UK, Outbrain, said “the cold, hard truth is advertisers will only care if it hurts their numbers. If performance remains steady, no one’s going to lose sleep over ‘where’ or ‘how’ their ads show up”.
+
+At the Consumer Electronics Show this week, Meta’s chief marketing officer Alex Schultz said that the company’s brand safety tools remain in place, and the company was “not rushing” the rollout to give advertisers “time to adjust and understand”. Nicola Mendelsohn, head of Meta’s global business group, wrote in a LinkedIn post that the company would continue to invest in safety tools for advertisers.
+
+Meta’s policy changes immediately divided opinion inside the company. One person said some staff viewed the moderation updates as rolling back important protections, but added employees were “afraid to really speak up” since Meta underwent several bruising rounds of lay-offs since the pandemic. 
+
+Another employee said the reaction internally of the shift to community notes was largely positive, particularly because fact checking is viewed as a “thankless” task “since one side or the other is bound to accuse you of taking sides”.
+
+Those who know Zuckerberg say he has long been a proponent of free expression, but has moulded his stances according to political and public pressure over the years.
+
+“It’s becoming a trend,” said Katie Harbath, a former policy director who worked on Meta’s elections strategy for a decade. “After each major election since 2016, Mark makes these big shifts — going where the societal and regulatory winds are blowing. This is another one of those realignments.”
+
+Zuckerberg first introduced third-party fact-checking as part of a raft of measures in late 2016 designed to address criticism of misinformation on Facebook. But this week Zuckerberg blamed governments and “legacy media” for pushing his company to “censor more and more”, and accused fact-checkers of being “too politically biased”. 
+
+Linda Yaccarino, X’s chief executive, said at a conference on Tuesday: “Mark, Meta, welcome to the party”.  
+
+Asked about Meta’s new changes at a press conference, Trump said he thought the tech group had “come a long way”, adding that Zuckerberg was “probably” responding to threats he previously made against him.
+
+On the campaign trail, Trump threatened to jail the social media chief for alleged election interference and dubbed his company an “enemy of the people” for alleged censorship.
+
+Experts see Zuckerberg’s shift as much a business decision as it is an ideological one.
+
+The Meta chief is pouring billions of dollars into his ambitions to become the “leader” in artificial intelligence, and has been publicly promoting its open source approach to AI as regulators globally circle the space. 
+
+“The big reason why is Mark seeing the influence that Elon, [venture capitalists Marc] Andreessen and [David] Sacks are having on Trump and wanting to make sure he’s in that mix,” said Harbath.
+
+The move also comes ahead of the tech group facing a major antitrust trial in April. The Federal Trade Commission has accused the social media group of maintaining monopoly power and using a “buy or bury” strategy to neutralise competitors, and is seeking to force the company to unwind its acquisitions of Instagram and WhatsApp. 
+
+“In order to not get the company broken up by antitrust actions, which he realises can be heavily influenced by whoever is in power in Washington, Zuckerberg needs to be a chameleon,” said David Evan Harris, a chancellor’s public scholar at University of California, Berkeley and a former Meta staffer.
